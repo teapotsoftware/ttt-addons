@@ -1,0 +1,8 @@
+resource.AddFile("materials/vgui/ttt/icon_famas.vtf")
+resource.AddFile("materials/vgui/ttt/icon_g3sg1.vtf")
+resource.AddFile("materials/vgui/ttt/icon_galil.vtf")
+resource.AddFile("materials/vgui/ttt/icon_m3.vtf")
+resource.AddFile("materials/vgui/ttt/icon_mp5.vtf")
+resource.AddFile("materials/vgui/ttt/icon_p90.vtf")
+-- resource.AddFile("materials/vgui/ttt/icon_sg550.vtf")
+resource.AddFile("materials/vgui/ttt/icon_tmp.vtf")
