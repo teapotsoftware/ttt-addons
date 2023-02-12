@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ttt_kleinlabs/admin_computer"
+	"$surfaceprop"	"glass"
+
+	Proxies
+	{
+		ToggleTexture
+		{
+			ToggleTextureVar         $basetexture
+			ToggleTextureFrameNumVar $frame
+		}
+	}
+}
